@@ -15,8 +15,9 @@ $theme-colors: () !default;
     $yellow:   #ffc107 !default;
     $red:      #dc3545 !default;
 
-    $accent: $blue !default;
-    $primary: $accent !default;
+    $primary: $blue !default;
+    $accent: $primary !default;
+   
     $secondary: #e4e7eb !default;
     $info: $cyan !default;
     $success: $green !default;
